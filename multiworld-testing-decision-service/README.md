@@ -8,3 +8,6 @@ Papers We Love Chennai Meetup #3
 
 Read the **[paper](https://github.com/Microsoft/mwt-ds/raw/master/images/MWT-WhitePaper.pdf)**. 
 
+Slides: http://hunch.net/~rwil/, http://hunch.net/~rwil/Motivation_algs_theory.pptx
+
+Presented by Ganesh Srinivas
