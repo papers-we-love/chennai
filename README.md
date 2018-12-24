@@ -8,7 +8,7 @@ This is the repository for the Chennai (India) chapter of Papers We Love. As a l
 |1              |18 March 2017|[An Industrial-Strength Audio Search Algorithm](https://github.com/papers-we-love/chennai/tree/master/industrial-strength-audio-search-algorithm)|
 |2              |17 March 2018|[Deep Learning (Review)](https://github.com/papers-we-love/chennai/tree/master/deep-learning-nature-review)|
 |3              |21 April 2018|[Multiworld Testing Decision Service: A System for Experimentation, Learning, And Decision-Making](https://github.com/papers-we-love/chennai/tree/master/multiworld-testing-decision-service)|
-|4              |19 May 2018(tentative)|[Unsupervised learning of Semantic Audio Representations](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46665.pdf) (tentative)|
+|4              |19 Jan 2019(tentative)|[Vuvuzela: Scalable Private Messaging Resistant to Traffic Analysis](https://vuvuzela.io/static/vuvuzela.pdf) (tentative)|
 
 ### Information
 
