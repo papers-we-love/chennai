@@ -16,7 +16,8 @@ This is the repository for the Chennai (India) chapter of Papers We Love. As a l
 - **[Slack](https://paperswelove.slack.com/messages/chennai)**
 
 ### Contact
-- **Ganesh Srinivas**: gs401 [at] snu [dot] edu [dot] in
-- **Benoy Thomas John**: benoytj [at] gmail [dot] com
-- **Chapter Email**: [PapersWeLoveChennai@gmail.com](mailto:PapersWeLoveChennai@gmail.com)
+- **Arvind Nedumaran**: arvindamirtaa[at]gmail[dot]com
+- **Benoy Thomas John**: benoytj[at]gmail[dot]com
+- **Ganesh Srinivas**: gs401[at]snu[dot]edu[dot]in
+- **Chapter Email**: [chennaipwl@gmail.com](mailto:chennaipwl@gmail.com)
 - **All** [contact@paperswelove.org](mailto:contact@paperswelove.org)
