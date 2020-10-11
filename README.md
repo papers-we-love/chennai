@@ -2,10 +2,10 @@
 
 This is the repository for the Chennai (India) chapter of Papers We Love.
 
-* [Code of Conduct](Code of Conduct.md)
+* [Code of Conduct](https://github.com/papers-we-love/chennai/blob/master/Code%20of%20Conduct.md)
 * [Papers](papers/)
-* [Past Meetups](Past Meetups.md)
-* [Speakers](Speakers.md)
+* [Past Meetups](https://github.com/papers-we-love/chennai/blob/master/Past%20Meetups.md)
+* [Speakers](https://github.com/papers-we-love/chennai/blob/master/Speakers.md)
 * Links:  [Twitter](https://twitter.com/PWLChennai) | [Slack](https://paperswelove.slack.com/messages/chennai)
 
 ### Contact
