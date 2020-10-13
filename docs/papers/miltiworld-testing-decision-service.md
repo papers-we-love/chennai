@@ -1,4 +1,4 @@
-# Multiworld Testing Decision Service: A System for Experimentation, Learning, And Decision-Making
+# Multiworld Testing Decision Service
 
 Papers We Love Chennai Meetup #3
 
@@ -6,7 +6,7 @@ Papers We Love Chennai Meetup #3
 
 **Date and Time**: Saturday, 21 April 2018 from 3pm to 4.30pm.
 
-Read the **[paper](https://github.com/Microsoft/mwt-ds/raw/master/images/MWT-WhitePaper.pdf)**. 
+Read the **[paper](https://github.com/Microsoft/mwt-ds/raw/master/images/MWT-WhitePaper.pdf)**.
 
 Slides: http://hunch.net/~rwil/, http://hunch.net/~rwil/Motivation_algs_theory.pptx
 

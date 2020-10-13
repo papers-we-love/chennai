@@ -1,0 +1,33 @@
+# Project information
+site_name: Papers We Love Chennai
+site_url: https://squidfunk.github.io/mkdocs-material/
+site_author: Martin Donath
+site_description: >-
+  Welcome to the Chennai chapter of Papers We Love. Papers We Love (PWL) is a community built around reading, discussing and learning more about academic computer science papers.
+
+# Theme Configuration
+theme:
+  name: material
+
+  features:
+    - navigation.tabs
+    - navigation.instant
+
+  static_templates:
+    - 404.html
+
+  favicon: assets/favicon.png
+
+  icon:
+    logo: logo
+
+# Plugins
+plugins:
+  - search:
+      lang: en
+
+# Social Icons
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/papers-we-love/chennai
