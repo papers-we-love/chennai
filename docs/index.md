@@ -6,7 +6,9 @@ We hold regular meetups in Chennai (and online). We select a paper every month. 
 
 ## Upcoming Meetup
 Date: 14th November 2020 (Saturday)
+
 Venue: Zoom (RSVP here)
+
 Paper: [Statistical Modeling: The Two Cultures by Leo Breiman](papers/statistical-modelling-two-cultures-leo-breiman.md)
 
 ## Where to go from here
