@@ -7,11 +7,11 @@ We hold regular meetups in Chennai (and online). We select a paper every month. 
 ## Upcoming Meetup
 Date: 21st November 2020 (Saturday)
 
-Venue: Zoom (RSVP here)
+Venue: Google Meet
 
-Paper: [Statistical Modeling: The Two Cultures by Leo Breiman](papers/statistical-modelling-two-cultures-leo-breiman.md)
+Paper: [A Brief Survey of Deep Reinforcement Learning](papers/brief-survey-of-deep-reinforcement-learning.md)
 
-RSVP [Here](https://www.eventbrite.com/e/126457119649/)
+RSVP [Coming Soon](#)
 
 ## Where to go from here
 * Take a look at the [Code of Conduct](coc.md)
