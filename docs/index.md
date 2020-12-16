@@ -6,12 +6,13 @@ We hold regular meetups in Chennai (and online). We select a paper every month. 
 
 ## Upcoming Meetup
 Date: 21st November 2020 (Saturday)
+Time: 6:00 PM to 7:30 PM
 
 Venue: Google Meet
 
 Paper: [A Brief Survey of Deep Reinforcement Learning](papers/brief-survey-of-deep-reinforcement-learning.md)
 
-RSVP [Coming Soon](#)
+RSVP [Here](https://www.eventbrite.com/e/papers-we-love-chennai-december-meetup-tickets-133047453515)
 
 ## Where to go from here
 * Take a look at the [Code of Conduct](coc.md)
